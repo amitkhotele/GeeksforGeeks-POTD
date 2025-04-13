@@ -1,2 +1,29 @@
-# GeeksforGeeks-POTD
-Welcome to my GeeksforGeeks Problem of the Day (POTD) repository! This repo is a personal coding journal where I consistently solve and upload daily coding challenges from GeeksforGeeks. It’s designed to help anyone who’s aiming to master Data Structures and Algorithms (DSA) through regular problem-solving and hands-on coding practice.
+🚀 GeeksforGeeks POTD Solutions | 💻 Daily Coding Dose
+Welcome to my GeeksforGeeks POTD (Problem of the Day) repository! 🌟
+
+This repo is a 🔥 daily-updated collection of efficient and well-documented solutions to GFG’s POTD challenges – ranging from easy to hard problems, covering topics like:
+
+✅ Arrays & Strings
+
+✅ Linked Lists & Trees
+
+✅ Graphs & Dynamic Programming
+
+✅ Stacks, Queues, Heaps, Hashing & more...
+
+🎯 Why You’ll Love This Repo
+📅 Daily Commitment to improve DSA skills
+
+🧠 Clean, optimized & readable Python solutions
+
+🧪 Tested with GFG's internal test cases
+
+📚 Great resource for interview prep & placement-ready coding
+
+💥 Boost Your DSA With Me
+Whether you’re a beginner or preparing for top tech interviews, this repo is your DSA gym 🏋️‍♂️. Fork it, star it ⭐, and stay consistent—DSA mastery starts here.
+
+👨‍💻 Let’s Connect
+Follow me on my GFG journey and grow your problem-solving skills alongside!
+Happy Coding 💚
+
