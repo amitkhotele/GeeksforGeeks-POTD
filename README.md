@@ -27,8 +27,7 @@ Whether you’re a beginner or preparing for top tech interviews, this repo is y
 Follow me on my GFG journey and grow your problem-solving skills alongside!
 Happy Coding 💚
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=amitkhotele.GeeksforGeeks-POTD)
+![Visitors Count](https://visitor-badge.laobi.icu/badge?page_id=amitkhotele.GeeksforGeeks-POTD)
 
-![Visitor Count](https://api.countapi.xyz/hit/amitkhotele/GeeksforGeeks-POTD/badge.svg)
 
 
