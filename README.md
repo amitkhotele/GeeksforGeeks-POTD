@@ -28,6 +28,7 @@ Follow me on my GFG journey and grow your problem-solving skills alongside!
 Happy Coding 💚
 
 
-![Visitors](https://shields.io/endpoint?url=https://api.countapi.xyz/hit/amitkhotele/GeeksforGeeks-POTD&label=Visitors)
+![Visitor Count](https://api.countapi.xyz/hit/amitkhotele/GeeksforGeeks-POTD.svg)
+
 
 
