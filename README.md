@@ -29,5 +29,6 @@ Happy Coding 💚
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=amitkhotele.GeeksforGeeks-POTD)
 
+![Visitor Count](https://api.countapi.xyz/hit/amitkhotele/GeeksforGeeks-POTD/badge.svg)
 
 
